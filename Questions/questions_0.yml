@@ -1,7 +1,7 @@
 # Category 0 - Science
 ---
 questions:
-- question: Compared to Earth, what is the approximate force of gravity on the moon?
+- question: Compared to Earth, what is the approximate force of gravity on the moon? (please use words and not fractions)
   difficulty: medium
   correct_answer: One sixth
   incorrect_answers:
@@ -13,3 +13,29 @@ questions:
   correct_answer: 'False'
   incorrect_answers:
   - 'True'
+- question: How many time zones does China have?
+  difficulty: easy
+  correct_answer: One
+  incorrect_answers:
+  - eight
+  - ten
+  - four
+- question: True or False: The stratosphere is above the trophosphere
+  difficulty: easy
+  correct_answer: 'True'
+  incorrect_answers:
+  - 'False'
+- question: Who is considered the "father of psychoanalysis?"
+  difficulty: medium
+  correct_answer: Sigmund Freud
+  incorrect_answers:
+  - Ivan Pavlov
+  - Jean Piaget
+  - Ed Gein
+- question: What is the Fastest Fish in the Ocean?
+  difficulty: medium
+  correct_answer: Sailfish
+  incorrect_answers:
+  - Blue Shark
+  - Humpback Whale
+  - Marlin

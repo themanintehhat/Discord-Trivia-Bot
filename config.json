@@ -1,5 +1,5 @@
 {
-  "token": "yourtokenhere",
+  "token": "NjM5MTE0MDQwMzI4NzE2Mjk4.Xbmj3Q.FaH4Ztw07cGEwhB7rYdO1774Zq4",
   "botsfordiscord.com-token": "optionaltokenhere",
   "botlist.space-token": "optionaltokenhere",
   "discordbots.group-token": "optionaltokenhere",
@@ -29,7 +29,7 @@
   "disable-admin-commands": false,
   "disable-version-check": false,
   "allow-bots": false,
-  "databaseURL": "https://opentdb.com",
+  "databaseURL": "file://./Questions",
   "database-merge": false,
   "database-cache-size": 32,
   "stat-file": "./stats.json",

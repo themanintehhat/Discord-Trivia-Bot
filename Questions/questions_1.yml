@@ -13,3 +13,47 @@ questions:
   - Dr. Nitrus Brio
   - Dr. Nefarious Tropy
   - Nitros Oxide
+- question: What is the highest-grossing arcade game of all-time?
+  difficulty: medium
+  correct_answer: Pac-Man
+  incorrect_answers:
+  - Space Invaders
+  - Ms. Pac-Man
+  - Galaga
+  - Pong
+- question: In what year was "Fortnite" released?
+  difficulty: hard
+  correct_answer: '2017'
+  incorrect_answers:
+  - '2018'
+  - '2019'
+  - '2016'
+  - '2015'
+- question: What is the name of the first-ever videogame?
+  difficulty: hard
+  correct_answer: Tennis for Two
+  incorrect_answers:
+  - Pong
+  - Doom
+  - Mortal Kombat
+- question: Which pop media icon was recently memorialized in "World of Warcraft" in late 2018?
+  difficulty: very hard
+  correct_answer: Stan Lee
+  incorrect_answers:
+  - Robert Downey Jr.
+  - Robin Williams
+  - Whitney Houston
+- question: What was the name of the videogame that officially feature Michael Jackson as the hero?
+  difficulty: easy
+  correct_answer: Moonwalker
+  incorrect_answers:
+  - Space Channel 5
+  - Sonice the Hedgehog
+  - Dance Dance Revolution
+- question: In 2012, students at MIT hacked the lighting system of an entire building to play which game?
+  difficulty: hard
+  correct_answer: Tetris
+  incorrect_answers:
+  - Pong
+  - Pac-Man
+  - Galaga
